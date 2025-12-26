@@ -1,0 +1,32 @@
+export const codingProfiles = [
+    {
+        id: 1,
+        platform: "LeetCode",
+        problemsSolved: "750+",
+        rating: "1814",
+        rank: "Top 7%",
+        profileLink: "https://leetcode.com/u/harsh1937",
+        icon: "SiLeetcode",
+        color: "#FFA116",
+    },
+    {
+        id: 2,
+        platform: "Codeforces",
+        problemsSolved: "200+",
+        rating: "1368",
+        rank: "Pupil",
+        profileLink: "https://codeforces.com/profile/harshchhallani3",
+        icon: "SiCodeforces",
+        color: "#1F8ACB",
+    },
+    {
+        id: 3,
+        platform: "CodeChef",
+        problemsSolved: "50+",
+        rating: "1662",
+        rank: "3★",
+        profileLink: "https://www.codechef.com/users/meowymeowy",
+        icon: "SiCodechef",
+        color: "#5B4638",
+    },
+];
