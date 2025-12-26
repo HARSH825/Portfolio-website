@@ -25,7 +25,7 @@ export const codingProfiles = [
         problemsSolved: "50+",
         rating: "1662",
         rank: "3★",
-        profileLink: "https://www.codechef.com/users/meowymeowy",
+        profileLink: "https://www.codechef.com/",
         icon: "SiCodechef",
         color: "#5B4638",
     },
